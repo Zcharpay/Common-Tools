@@ -8,4 +8,4 @@ This repo holds basic tools I use for exploring and analysing data. For some pro
 - Testing for which group(s) are significantly different if the ANOVA conclustion was to reject H0, using either Bonferroni or Tukey as appropriate
 
 ## Sample data used by the code templates
-**ANOVAdata.txt** - sample of data used by ANOVA.R
+**ratsweights.csv** - sample of data used by ANOVA.R
